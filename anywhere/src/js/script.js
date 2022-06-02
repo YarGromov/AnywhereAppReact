@@ -1,3 +1,4 @@
+
 const form = document.querySelector("form");
 const main = document.querySelector(".main");
 const footerLogotype = document.querySelector(".footer__logotype");

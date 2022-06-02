@@ -1,22 +1,15 @@
 import './css/style.css'
 import './App.css';
+import Container from './container';
+// import './js/script';
 
-const Header = () => {
-  return (
-    <div>
-    <h1>Hello REACT</h1>
-    <a href="#">Test</a>
-    </div>
-    
-  )
-}
 
 function App() {
   return (
     <div className="App">
-      <Header/>
+      <Container />
     </div>
-  );
+  )
 }
 
 export default App;
