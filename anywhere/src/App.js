@@ -1,7 +1,7 @@
 import './css/style.css'
 import './App.css';
-import Container from './container';
-// import './js/script';
+import Container from './Container';
+
 
 
 function App() {

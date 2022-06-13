@@ -263,7 +263,7 @@ input[type="password"] {
   right: 55px;
 }
 
-.footer__logotype_success {
+[data-page='SUCCESS_PAGE'] .footer__logotype {
   top: 170px;
 }
 
